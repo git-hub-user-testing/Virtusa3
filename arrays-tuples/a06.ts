@@ -1,0 +1,3 @@
+var myArray: number[];
+
+myArray = [];

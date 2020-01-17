@@ -1,0 +1,1 @@
+var myArray: number[] = [10, 20, 30];

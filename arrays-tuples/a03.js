@@ -1,0 +1,2 @@
+var b;
+b = undefined;
